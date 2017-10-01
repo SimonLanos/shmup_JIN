@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LevelDescription xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <gameModeWithHealth>false</gameModeWithHealth>
+  <enemyCooldown>1</enemyCooldown>
+  <collectibleApparitionCooldown>5</collectibleApparitionCooldown>
+  <weaponCollectibleApparitionRatio>1</weaponCollectibleApparitionRatio>
+  <energyCollectibleApparitionRatio>1</energyCollectibleApparitionRatio>
+  <healthCollectibleApparitionRatio>1</healthCollectibleApparitionRatio>
+  <numberOfEnemyInLevel>10</numberOfEnemyInLevel>
+</LevelDescription>

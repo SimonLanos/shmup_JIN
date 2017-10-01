@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LevelDescription xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <gameModeWithHealth>true</gameModeWithHealth>
+  <enemyCooldown>1</enemyCooldown>
+  <collectibleApparitionCooldown>5</collectibleApparitionCooldown>
+  <weaponCollectibleApparitionRatio>1</weaponCollectibleApparitionRatio>
+  <energyCollectibleApparitionRatio>1</energyCollectibleApparitionRatio>
+  <healthCollectibleApparitionRatio>1</healthCollectibleApparitionRatio>
+  <numberOfEnemyInLevel>5</numberOfEnemyInLevel>
+  <timeBetweenThisAndPreviousEnemy>
+    <float>1</float>
+    <float>0.5</float>
+    <float>1</float>
+    <float>0.5</float>
+    <float>1</float>
+  </timeBetweenThisAndPreviousEnemy>
+  <enemiesVerticalSpawnPositions>
+    <float>0</float>
+    <float>5</float>
+    <float>-5</float>
+    <float>0</float>
+    <float>0</float>
+  </enemiesVerticalSpawnPositions>
+</LevelDescription>
